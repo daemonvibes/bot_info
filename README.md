@@ -32,7 +32,7 @@ Command and Aliases | Description                                               
 `$commands`| Shows which command has been used the most on the server and how often its been used | `$commands`
 `$roleUsers`| Gives all members a role                                                             | `$roleUsers Admins`
 `$games` | Shows what games are being played currently and how often (on server)                | `$games`
-`$$ranks`, `$rank`, `$role`, `$roles` | Shows all ranks or info on a rank                                                    | `$ranks`, `$ranks Admin'`
+`$ranks`, `$rank`, `$role`, `$roles` | Shows all ranks or info on a rank                                                    | `$ranks`, `$ranks Admin'`
 `$addvote` | Add emotes for reactions! (Polls)                                                    | `$addvotes`, `$vote`, `$votes`
 
 ### Anime ###
@@ -76,5 +76,5 @@ Command and Aliases | Description                                               
 `$removereactions` | Removes all reactions on a message. **MOD ONLY**                     | `$removereactions 247386709505867776`
 `$permissions` | Lists permisions of bot. **ADMIN OR BOT OWNER ONLY**                 | `$permissions`
 `$hierarchy` | Shows a list of roles of current server. **ADMIN OR BOT OWNER ONLY** | `$hierarchy`
-`$setrank`, `$setrole`, `$$r` | Gives rank to user. **MOD ONLY**                                     | `$setrole @daemon Member`
+`$setrank`, `$setrole`, `$r` | Gives rank to user. **MOD ONLY**                                     | `$setrole @daemon Member`
 `$rmrank`, `$rmrole`, `$removerole`, `$removerank` | Removes rank from user. **MOD ONLY**                                 
