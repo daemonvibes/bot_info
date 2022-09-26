@@ -41,7 +41,7 @@ Command and Aliases | Usage                                                     
 ----------------|-----------------------------------------------------------|-------
 `$kawaii` | Random kawaii picture                                     | `$kawaii`
 `$hello`, `$wave`, `$hi`, `$ohaiyo` | Nonsense gifs to say hello                                | `$hello`
-`$:nep`, `$nepu`, `:topnep` | Can't stop the Nep                                        | `$nep`
+`$:nep`, `$nepu`, `$topnep` | Can't stop the Nep                                        | `$nep`
 `$pat` | /r/headpats Pat Pat Pat :3                                | `$pat @daemonvibes#6666`
 `$anime`, `$anilist` | Search an anime and return basic info such as description | `$anime Mushishi`
 `$manga` | Search a manga and return basic info such as description  | `$manga Air Gear`
@@ -61,7 +61,7 @@ Command and Aliases | Description                             | Usage
 `$stone` | Stone the mf                            | `$stone @awake#1234`
 `$hype`, `$hypu`, `$train` | HYPE TRAIN CHOO CHOO                    | `$hype`
 `$xkcd` | Shows the latest or a random xkcd comic | `$xkcd`, `$xkcd random`
-`$reaction`, `$r`, `$addreaction` | Adds a reaction to last message         | `:reaction ok_hand`, `:reaction sunglasses 247386709505867776`
+`$reaction`, `$r`, `$addreaction` | Adds a reaction to last message         | `$reaction ok_hand`, `$reaction sunglasses 247386709505867776`
 `$pun`, `$duma`, `$joke` | Bad jokes - parazitii                   | `$pun`
 
 ### Mod ###
