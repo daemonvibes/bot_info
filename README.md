@@ -32,8 +32,6 @@ Command and Aliases | Description                                               
 `$commands`| Shows which command has been used the most on the server and how often its been used | `$commands`
 `$roleUsers`| Gives all members a role                                                             | `$roleUsers Admins`
 `$games` | Shows what games are being played currently and how often (on server)                | `$games`
-`$ranks`, `$rank`, `$role`, `$roles` | Shows all ranks or info on a rank                                                    | `$ranks`, `$ranks Admin'`
-`$addvote` | Add emotes for reactions! (Polls)                                                    | `$addvotes`, `$vote`, `$votes`
 
 ### Anime ###
 
