@@ -33,19 +33,19 @@ Command and Aliases | Description                                               
 `$roleUsers`| Gives all members a role                                                             | `$roleUsers Admins`
 `$games` | Shows what games are being played currently and how often (on server)                | `$games`
 `$$ranks`, `$rank`, `$role`, `$roles` | Shows all ranks or info on a rank                                                    | `$ranks`, `$ranks Admin'`
-`$addvote` | Add emotes for reactions! (Polls)                                                    | `$addvotes`, `$vote`, `:votes`
+`$addvote` | Add emotes for reactions! (Polls)                                                    | `$addvotes`, `$vote`, `$votes`
 
 ### Anime ###
 
 Command and Aliases | Usage                                                     | Description
 ----------------|-----------------------------------------------------------|-------
 `$kawaii` | Random kawaii picture                                     | `$kawaii`
-`$hello`, `$wave`, `$hi`, `$ohaiyo` | Nonsense gifs to say hello                                | `:hello`
-`$:nep`, `$nepu`, `:topnep` | Can't stop the Nep                                        | `:nep`
+`$hello`, `$wave`, `$hi`, `$ohaiyo` | Nonsense gifs to say hello                                | `$hello`
+`$:nep`, `$nepu`, `:topnep` | Can't stop the Nep                                        | `$nep`
 `$pat` | /r/headpats Pat Pat Pat :3                                | `$pat @daemonvibes#6666`
 `$anime`, `$anilist` | Search an anime and return basic info such as description | `$anime Mushishi`
 `$manga` | Search a manga and return basic info such as description  | `$manga Air Gear`
-`$saucenao`, `$sauce`, `:iqdb` | Tries to find the source of an anime pic                  | `$saucenao https://i.imgur.com/nmnVtgs.jpg`
+`$saucenao`, `$sauce`, `$iqdb` | Tries to find the source of an anime pic                  | `$saucenao https://i.imgur.com/nmnVtgs.jpg`
 
 ### Fun ###
 
