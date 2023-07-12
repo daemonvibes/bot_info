@@ -67,8 +67,8 @@ Command and Aliases | Description                             | Usage
 Command and Aliases | Description                                                          | Usage
 ----------------|----------------------------------------------------------------------|-------
 `$purge`, `$prune` | Purges messages **MOD ONLY**                                         | `$purge 100`
-`$kick` | Kicks a user with a specific reason. **MOD ONLY**                    | `$kick @Der-Eddy#6508`, `$kick @awake not present at war`
-`$ban` | Bans a user with a specific reason. **MOD ONLY**                     | `$ban @Der-Eddy#6508`, `$ban @daemon reclama`
+`$kick` | Kicks a user with a specific reason. **MOD ONLY**                    | `$kick daemonvibes`, `$kick @awake not present at war`
+`$ban` | Bans a user with a specific reason. **MOD ONLY**                     | `$ban daemonvibes`, `$ban @daemon reclama`
 `$unban` | Unbans member with a reason. **MOD ONLY**                            | `$unban 102815825781596160`
 `$bans` | List of bans. **MOD ONLY**                                           | `$bans`
 `$removereactions` | Removes all reactions on a message. **MOD ONLY**                     | `$removereactions 247386709505867776`
